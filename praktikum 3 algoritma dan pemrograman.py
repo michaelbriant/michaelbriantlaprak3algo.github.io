@@ -4,7 +4,7 @@ print('@  @  @ @ @     @@@@@@ @@@@@ @@@@@ @')
 print('@  @  @ @ @     @    @ @   @ @     @')
 print('@  @  @ @ @@@@@ @    @ @   @ @@@@@ @@@@@')
 
-#  menginput angka awla dan angka akhir
+#  menginput angka awal dan angka akhir
 angka_awal = int(input("Masukkan angka awal: "))
 angka_akhir = int(input("Masukkan angka akhir: "))
 
